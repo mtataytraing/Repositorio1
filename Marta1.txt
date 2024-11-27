@@ -6,3 +6,4 @@ Commit se usa para consolidar los cambios
 hago un cambio para poder consolidar desde vs
 
 Cambio en local desde otra fila
+Cambio en otra fila desde remoto
