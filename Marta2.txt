@@ -4,3 +4,4 @@ El mensaje es el equivalente del commit -m""; con la confirmación se realiza el
 El botón de sincronizar (después de la confirmación) equivale al push del terminal
 Si hago cambios en el archivo desde GitHub los debo consolidar en local con "git pull" en terminal
 En VS code se debe pulsar en "..." y elegir pull
+Nos es buena práctica cambiar desde hithub
