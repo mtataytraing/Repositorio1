@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Practicar cambios en local y en remoto; esto es un cambio en local
 Tendré que add/Commit y push para que el fichero se vea en remoto
 Esto es un cambio en remoto
+=======
+Practicar cambios en local y en remoto; amplio linea en remoto
+Tendré que add/Commit y push para que el fichero se vea en remoto
+Esto es un cambio en remoto.
+>>>>>>> 79bd38208c151dd3d23fa03ee981ad45e7df85e8
