@@ -1,0 +1,2 @@
+Este es un fichero para hacer cambios desde Vs code y consolidarlos con Github sin ir al terminal
+El control de código de fuente permite confirmar cambios sin necesidad de ir al terminal
