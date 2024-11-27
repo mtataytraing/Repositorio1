@@ -6,4 +6,8 @@ Archivo para practicar conflictos; esto es un cambio en remoto
 Primero hay que sincronizar para que se vea en remoto
 Esto es otro cambio en remoto; cambio en local2
 Esto es otro cambio en remoto; esto es un cambio remoto2; cambio en local3
+<<<<<<< HEAD
 Esto es otro cambio en remoto; esto es un cambio remoto2; cambio en remoto3; local4
+=======
+Esto es otro cambio en remoto; esto es un cambio remoto2; cambio en remoto3; remoto4
+>>>>>>> 1ce0452b49c31dbb0b1884b84c9c129d8d67f71e
