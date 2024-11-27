@@ -8,3 +8,5 @@ Nos es buena práctica cambiar desde hithub
 Conflictos: cambio en local en vsc a la vez que en remoto en la misma línea
 Conflictos: cambio en remoto en Github a la vez que en local en la misma línea
 En los conflictos, aparecerá como "Head" lo que se haya consolidado antes.
+Hay que aceptar el cambio que se quiere realizar y luego realizar las 2 sincronizaciones:
+la push del local y el pull del remoto si se quieren "mezclar ambos códigos"
