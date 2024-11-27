@@ -2,4 +2,4 @@ Esto es un fichero de prueba de mi Repositorio1
 Este código se va autoguardando
 Si quieres deshacer cambios, hay que presionar Control Z
 Para volver a escribir Control Y
-Commit se usa para consolidar los cambios
+Commit se usa para consolidar los cambios. solo se hace 1 vez?
