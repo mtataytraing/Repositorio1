@@ -1,2 +1,4 @@
 Este es un fichero para hacer cambios desde Vs code y consolidarlos con Github sin ir al terminal
-El control de código de fuente permite confirmar cambios sin necesidad de ir al terminal
+El control de código de fuente permite confirmar cambios desde VS code (interfaz) sin necesidad de ir al terminal
+El mensaje es el equivalente del commit -m""; con la confirmación se realiza el add y el commit
+El botón de sincronizar (después de la confirmación) equivale al push del terminal
