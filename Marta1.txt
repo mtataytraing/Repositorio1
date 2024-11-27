@@ -5,3 +5,5 @@ Para volver a escribir Control Y
 Commit se usa para consolidar los cambios
 hago un cambio para poder consolidar desde vs
 Cambio local en una fila en mismo fichero; se recomienda primero add/comnit
+
+Cambio en remoto mismo fichero y distinta fila
