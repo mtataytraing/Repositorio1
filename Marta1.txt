@@ -5,3 +5,4 @@ Para volver a escribir Control Y
 Commit se usa para consolidar los cambios
 hago un cambio para poder consolidar desde vs
 
+Cambio en remoto mismo fichero y distinta fila
