@@ -7,3 +7,4 @@ hago un cambio para poder consolidar desde vs
 Otro cambio en local; se recomienda primero add/commit, luego pull y luego push
 Cambio en local desde otra fila
 Cambio en otra fila desde remoto
+Otro cambio
