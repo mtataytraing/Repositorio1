@@ -5,8 +5,5 @@ Para mezclar, primero commit, luego pull, luego sincronizar y elegir si es la pr
 Archivo para practicar conflictos; esto es un cambio en remoto
 Primero hay que sincronizar para que se vea en remoto
 Esto es otro cambio en remoto; cambio en local2
-<<<<<<< HEAD
 Esto es otro cambio en remoto; esto es un cambio remoto2; cambio en local3
-=======
 Esto es otro cambio en remoto; esto es un cambio remoto2; cambio en remoto3
->>>>>>> 1e46c4af241c0689acb2495162ac9bcfc541a7b8
