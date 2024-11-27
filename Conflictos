@@ -2,3 +2,6 @@ Archivo para practicar conflictos; este es un cambio en local
 Primero hay que sincronizar para que se vea en remoto
 Este es un cambio en local
 Para mezclar, primero commit, luego pull, luego sincronizar y elegir si es la primera vez que mezclas
+Archivo para practicar conflictos; esto es un cambio en remoto
+Primero hay que sincronizar para que se vea en remoto
+Esto es otro cambio en remoto
